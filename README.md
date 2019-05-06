@@ -1,8 +1,4 @@
 # Sunflowers
 Fibonacci numbers and sunflower seeds
 
-## Install
-
-### Install with MATLAB Add-Ons
-
-[![Add to MATLAB](https://rks.github.com/left-pad-toolbox-1.0.0.svg)](https://local.mathworks.com/install/github/gulley/Sunflowers)
+[![Viewer](https://img.shields.io/badge/launch-viewer-green.svg)](http://mybinder.org/v2/gh/binder-examples/python-conda_pip/master?filepath=index.ipynb)
